@@ -3,3 +3,5 @@ scikit-image
 torch
 matplotlib
 jupyter
+nbconvert
+pyppeteer
