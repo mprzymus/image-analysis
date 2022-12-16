@@ -3,3 +3,5 @@
 img_venv
 *.pdf
 *.zip
+*.ipynb_checkpoint
+.vscode
