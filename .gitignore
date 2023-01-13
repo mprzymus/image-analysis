@@ -6,3 +6,4 @@ img_venv
 *.ipynb_checkpoint
 .vscode
 l6/data/room
+*.mp4
